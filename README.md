@@ -26,6 +26,6 @@ If the used memory lower than the target, the warning will close, if the used me
 If they wish to close the watcher as well they can hold the F12 key to terminate both programs. 
 
 
-Thank You for downloading Memory Watcher! Downloading this program and using it really means a lot to me and I hope that you enjoy it (　＾∇＾)
+Thank You for downloading Memory Watcher! Downloading this program and using it really means a lot to me and I hope that you enjoy it (＾∇＾)
 
 
