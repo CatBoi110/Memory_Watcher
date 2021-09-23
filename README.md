@@ -1,5 +1,3 @@
-# Memory_Watcher
-
 Thank you for downloading Memory Watcher (。・ω・。)
 
 - This lightweight and easy to use program will allow you to never worry about how much computer memory you have used.
@@ -10,13 +8,15 @@ In order to set up this program you must follow the following steps:
 
 1. Ensure the latest version of python is installed to your computer, if not open this link to download the latest version: https://www.python.org/downloads/
 
-2. Open the Memory_Setup.py file, follow the instructions to configure the config file.
+2. To install the needed libraies, first, open a command line and type "python", next change the directory of the folder for this program, finally type "pip install -r requirements.txt" to install all the needed libraires 
 
-3. Once the setup is complete you may open the Memory_Watcher file to begin the program.
+3. Open the Memory_Setup.py file, follow the instructions to configure the config file.
 
-4. To close down Memor_Watcher, Hold down the F12 key for at least 2 seconds 
+4. Once the setup is complete you may open the Memory_Watcher file to begin the program.
 
-5. Enjoy!
+5. To close down Memor_Watcher, Hold down the F12 key for at least 2 seconds 
+
+6. Enjoy!
 
 How this program works:
 
@@ -29,4 +29,3 @@ If they wish to close the watcher as well they can hold the F12 key to terminate
 Thank You for downloading Memory Watcher! Downloading this program and using it really means a lot to me and I hope that you enjoy it (　＾∇＾)
 
 
- 
