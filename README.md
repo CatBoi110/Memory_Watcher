@@ -10,7 +10,7 @@ In order to set up this program you must follow the following steps:
 
 2. To install the needed libraies, first, open a command line and type "python", next change the directory of the folder for this program, finally type "pip install -r requirements.txt" to install all the needed libraires 
 
-3. Open the Memory_Setup.py file, follow the instructions to configure the config file.
+3. Open the Setup.py file, follow the instructions to configure the config file.
 
 4. Once the setup is complete you may open the Memory_Watcher file to begin the program.
 
